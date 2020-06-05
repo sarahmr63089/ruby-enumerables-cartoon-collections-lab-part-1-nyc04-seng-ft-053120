@@ -11,3 +11,5 @@ def list_dwarves(array)
 end
 
 dwarves = ["dopey", "grumpy", "happy"]
+
+list_dwarves(dwarves)
